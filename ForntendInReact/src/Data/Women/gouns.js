@@ -1,0 +1,145 @@
+export const gounsPage1 = [
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/kw5ag7k0/kurta/f/j/g/xxl-sg1011-sanganeri-feb-original-imag8w9xbbakjkju.jpeg?q=70",
+    brand: "Riya Creation",
+    title: "Houndstooth Rayon Blend Stitched Anarkali Gown",
+    color: "Blue",
+    selling_price: "₹466",
+    price: "₹999",
+    disscount: "53% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/gown/9/5/7/na-s-3-4-sleeve-stitched-sho31krred-saponharsh-na-original-imagmufurbc2znpg.jpeg?q=70",
+    brand: "SAPONHARSH",
+    title: "Printed Viscose Rayon Stitched Anarkali Gown",
+    color: "Red",
+    selling_price: "₹449",
+    price: "₹1,099",
+    disscount: "59% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/kzfvzww0/gown/n/t/z/17-xl-short-sleeve-stitched-gown-rama-green-ne-style-60-original-imagbg8mwdhswgzh.jpeg?q=70",
+    brand: "NE STYLE",
+    title: "Printed Crepe Stitched Anarkali Gown",
+    color: "Light Green",
+    selling_price: "₹284",
+    price: "₹1,599",
+    disscount: "82% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/kzfvzww0/gown/v/z/l/18-l-short-sleeve-stitched-gown-nevy-blue-trikon-ne-style-60-original-imagbg8jhfhkjynd.jpeg?q=70",
+    brand: "NE STYLE",
+    title: "Printed Crepe Stitched Anarkali Gown",
+    color: "Dark Blue",
+    selling_price: "₹298",
+    price: "₹1,599",
+    disscount: "81% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-gown/q/b/k/free-half-sleeve-semi-stitched-ss-ng-1-r4mila-original-imaggnskhergruu4.jpeg?q=70",
+    brand: "Zinariya Fab",
+    title: "Embroidered Net Semi Stitched Anarkali Gown",
+    color: "Pink",
+    selling_price: "₹499",
+    price: "₹2,099",
+    disscount: "76% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/gown/8/r/g/na-xxl-sleeveless-stitched-grey-gown-m-glfashion-na-original-imagnzkhprbhezpf.jpeg?q=70",
+    brand: "GLFashion",
+    title: "Solid Rayon Blend Stitched Anarkali Gown",
+    color: "Grey",
+    selling_price: "₹689",
+    price: "₹1,199",
+    disscount: "42% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-gown/k/j/p/free-half-sleeve-semi-stitched-ngb-09-life-sky-original-imag5gtdzhh8g7bn.jpeg?q=70",
+    brand: "Zinariya Fab",
+    title: "Embroidered Net Semi Stitched Anarkali Gown",
+    color: "Pink",
+    selling_price: "₹499",
+    price: "₹3,099",
+    disscount: "83% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-gown/m/3/t/free-half-sleeve-semi-stitched-ss-ng-1-r4mila-original-imaggnssrjhz78eh.jpeg?q=70",
+    brand: "Zinariya Fab",
+    title: "Embroidered Net Semi Stitched Anarkali Gown",
+    color: "Pink",
+    selling_price: "₹499",
+    price: "₹2,099",
+    disscount: "76% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/gown/3/g/z/na-m-full-sleeve-semi-stitched-rayon-gown-sky-007-glfashion-na-original-imagp5zczfbuskty.jpeg?q=70",
+    brand: "GLFashion",
+    title: "Solid Rayon Blend Semi Stitched Anarkali Gown",
+    color: "Light Blue",
+    selling_price: "₹555",
+    price: "₹999",
+    disscount: "44% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/gown/a/l/e/na-xl-3-4-sleeve-stitched-handwork-gown-m-006-glfashion-na-original-imagnnyy4a5cqefg.jpeg?q=70",
+    brand: "GLFashion",
+    title: "Solid Rayon Blend Stitched Anarkali Gown",
+    color: "Maroon",
+    selling_price: "₹769",
+    price: "₹1,199",
+    disscount: "35% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/kzu6efk0/kurta/t/w/a/xl-153-annsh-apparel-original-imagbrakqebujmzc.jpeg?q=70",
+    brand: "Annsh Apparel",
+    title: "Printed Rayon Blend Stitched Anarkali Gown",
+    color: "Yellow",
+    selling_price: "₹444",
+    price: "₹2,599",
+    disscount: "82% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/kzfvzww0/gown/l/z/g/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8m9dpz4wtw.jpeg?q=70",
+    brand: "NE STYLE",
+    title: "Printed Crepe Stitched Anarkali Gown",
+    color: "Beige",
+    selling_price: "₹298",
+    price: "₹1,599",
+    disscount: "81% off",
+    size: "",
+  },
+  {
+    imageUrl:
+      "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-gown/k/v/f/free-half-sleeve-semi-stitched-ngb-01-life-sky-original-imag4kgzw2zykps2.jpeg?q=70",
+    brand: "Zinariya Fab",
+    title: "Net Semi Stitched Anarkali Gown",
+    color: "Grey",
+    selling_price: "₹499",
+    price: "₹3,099",
+    disscount: "83% off",
+    size: "",
+  },
+];

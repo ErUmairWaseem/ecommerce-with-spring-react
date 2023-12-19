@@ -1,0 +1,73 @@
+/*..............................Carrousel 1..............................*/
+.carousel1 {
+  width: 95%;
+}
+
+.carousel1-content {
+  width: 100%;
+}
+
+.carousel1-container {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.carousel1-container-list {
+  min-width: 12rem;
+  min-width: 12rem;
+}
+
+/*..............................Carrousel 2..............................*/
+.carousel2 {
+  width: 95%;
+}
+
+.carousel2-content {
+  width: 100%;
+}
+
+.carousel2-container {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.carousel2-container-list {
+  min-width: 12rem;
+  min-width: 12rem;
+}
+/*..............................Carrousel 3..............................*/
+.carousel3 {
+  width: 95%;
+}
+
+.carousel3-content {
+  width: 100%;
+}
+
+.carousel3-container {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.carousel3-container-list {
+  min-width: 12rem;
+  min-width: 12rem;
+}
+/*..............................Carrousel 4..............................*/
+.carousel4 {
+  width: 95%;
+}
+
+.carousel4-content {
+  width: 100%;
+}
+
+.carousel4-container {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.carousel4-container-list {
+  min-width: 12rem;
+  min-width: 12rem;
+}
